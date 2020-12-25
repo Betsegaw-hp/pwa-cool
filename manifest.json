@@ -1,7 +1,7 @@
 {
   "name": "pwa-is cool",
   "short_name": "PWA",
-  "start_url": "/?home=true",
+  "start_url": "https://betsegaw-hp.github.io/pwa-cool/",
 
   "icons":[ {
     "src": "icons/manifest-icon-192.png",
